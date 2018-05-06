@@ -50,7 +50,7 @@
 									<h3 class="invisible">header</h3>
 									<aside class="block_photo"><img alt="logo Roland PLANTARD Informatique" src="images/logo.gif"/></aside>
 									<div id="rpinfo">
-										<a href="https://www.depannage-pc-saintes.fr/">ROLAND PLANTARD - DEPANNAGE PC SAINTES</a>
+										<a href="https://depannage-pc-saintes.fr/">ROLAND PLANTARD - DEPANNAGE PC SAINTES</a>
 									</div>
 								</section>
 								<?php
